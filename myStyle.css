@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    margin: 0;
+    margin: 2%;
 }
 
 h1, h2 {
@@ -8,4 +8,15 @@ h1, h2 {
     display: flex;
     justify-content: center;
 
+}
+
+p {
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.img img{
+    width: 300px;
+    height: 300px;
 }

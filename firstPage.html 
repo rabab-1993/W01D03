@@ -11,9 +11,11 @@
     <div>
         <h1>Hobbies</h1>
         <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h2>
-        <p></p>
-        <p></p>
+        <p>fv loemgfdigod;gsfpg'shourfjbjvndl rgroursg dferuoifudf eruiodusd ifusdoifur </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis consequatur quidem hic aliquid corporis, ipsam vitae earum corrupti. Incidunt soluta, possimus a in accusantium nam ipsam exercitationem provident nobis repellendus.</p>
         <h2>Lorem ipsum dolor sit amet consectetur.</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus voluptatibus alias autem dolorum incidunt ratione at nam molestiae tempora aliquid itaque rerum odio unde eaque sed praesentium, provident eligendi. Reprehenderit?</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, voluptas modi in dicta assumenda harum sit magnam minima, adipisci alias incidunt excepturi, labore nostrum autem veniam consectetur asperiores officia exercitationem!</p>
         <li>reading</li>
         <li>draw</li>
         
@@ -21,10 +23,17 @@
     <div>
         <h1>Goals</h1>
         <h2>Lorem ipsum dolor sit.</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, mollitia, laboriosam magnam obcaecati doloremque eligendi placeat commodi, eius vel magni a pariatur id porro officiis laudantium hic similique distinctio quis?</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis, quis esse consectetur ipsum unde fugiat dolorum magni reprehenderit quia, officiis aliquam repellat totam cum asperiores quisquam dolor. Eaque, dicta totam?</p>
         <h2>Lorem ipsum dolor sit amet consectetur.</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid praesentium, pariatur distinctio sed inventore tempora corrupti iste dolorem enim! Illo itaque error doloremque omnis ducimus, neque nam quia aliquid corrupti.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, ullam ipsam provident libero at, autem, minus est dignissimos aperiam qui perspiciatis. Molestias itaque quidem modi eum esse, dicta illo ex?</p>
         <li>lo Lorem, ipsum.</li>
         <li>Lorem.</li>
-        
+    </div>
+    <div class="img">
+      <img src="https://images.pexels.com/photos/6599320/pexels-photo-6599320.jpeg?cs=srgb&dl=pexels-mathias-pr-reding-6599320.jpg&fm=jpg" alt="bfgg">
+
     </div>
 </body>
 </html>
