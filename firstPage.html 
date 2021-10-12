@@ -4,19 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="myStyle.css">
     <title>My first web page</title>
 </head>
 <body>
     <div>
         <h1>Hobbies</h1>
         <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h2>
+        <p></p>
+        <p></p>
         <h2>Lorem ipsum dolor sit amet consectetur.</h2>
+        <li>reading</li>
+        <li>draw</li>
         
     </div>
     <div>
         <h1>Goals</h1>
         <h2>Lorem ipsum dolor sit.</h2>
         <h2>Lorem ipsum dolor sit amet consectetur.</h2>
+        <li>lo Lorem, ipsum.</li>
+        <li>Lorem.</li>
         
     </div>
 </body>
